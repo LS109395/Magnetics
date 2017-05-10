@@ -1,0 +1,2 @@
+# Magnetics
+Wireless charging gebeuren
